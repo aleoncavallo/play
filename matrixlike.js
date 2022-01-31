@@ -1,4 +1,4 @@
-const canvas = document.getElementById('lienzo');
+const canvas = document.getElementById('canv');
 const ctx = canvas.getContext('2d');
 
 canvas.width = document.body.offsetWidth;
